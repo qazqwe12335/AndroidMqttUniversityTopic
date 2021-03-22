@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MQTThome</string>
+    <string-array name="scenes">
+        <item>正常模式</item>
+        <item>氣氛燈模式</item>
+        <item>電影院模式</item>
+    </string-array>
+</resources>
