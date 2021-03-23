@@ -5,4 +5,9 @@
 
 感測器(瓦斯感測器、紅外線感測器)再發生災害時，以相同原理透過Topic將訊息傳輸至樹梅派上的broker，透過broker將訊息推播到有訂閱此Topic的手機上做提醒
 
-![](app screenshot/bedroom.jpg)
+<img src="app screenshot/homepage.jpg" width=200>
+<img src="app screenshot/livingroom.jpg" width=200>
+<img src="app screenshot/livingligntcolor.jpg" width=200>
+<img src="app screenshot/kitchen.jpg" width=200>
+<img src="app screenshot/sensor.jpg" width=200>
+<img src="app screenshot/bedroom7.jpg" width=200>
