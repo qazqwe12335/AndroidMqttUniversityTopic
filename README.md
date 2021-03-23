@@ -11,3 +11,4 @@
 <img src="app screenshot/kitchen.jpg" width=200>
 <img src="app screenshot/sensor.jpg" width=200>
 <img src="app screenshot/bedroom7.jpg" width=200>
+<img src="app screenshot/wifi.png" width=200>
